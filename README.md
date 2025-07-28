@@ -1,20 +1,56 @@
-## Hi there 👋 I'm Pooja Naik
-
-# 💫 About Me:
-Data Analyst<br>Former Program Specialist in Healthcare 💼<br>Skilled in SQL & Power BI | Insight-driven 📊<br>Always learning, always growing 🚀
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pooja-naik-31b8032b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poojanaikkumta1998@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=poojanaik1402&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=poojanaik1402&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poojanaik1402&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">👋 Hi, I'm Pooja Naik</h1>
+<p align="center">
+  🌟 Healthcare Professional | Aspiring Data Analyst | Power BI & SQL Enthusiast  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=poojanaik1402&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a **healthcare professional transitioning into IT**, with 2.5+ years of experience in healthcare program operations. I’m now focused on **data analytics**, using tools like **SQL, Power BI, and Python** to uncover insights and tell meaningful stories through data.
+
+I believe in using data not just to analyze the past, but to **guide decisions and shape better outcomes**—especially in healthcare and business.
+
+---
+
+### 🔍 What I’m Working On:
+- 📊 Power BI dashboards using healthcare and business datasets  
+- 🧹 Data cleaning, automation, and reporting  
+- 📚 Enhancing my skills in SQL and Python for analytics  
+
+---
+
+### 💼 Skills & Tools:
+- **Languages/Tools**: SQL (Oracle), Power BI, Python (Pandas, NumPy)  
+- **Focus Areas**: Data Analysis, Business Intelligence, Healthcare Analytics  
+- **Soft Skills**: Storytelling with Data, Problem Solving, Attention to Detail  
+
+---
+
+### 📌 Featured Projects:
+
+- [📈 AdventureWorks Power BI Dashboard](https://github.com/poojanaik1402/AdventureWorks-Powerbi)  
+  *Sales overview, product performance, and regional insights visualized using Power BI*
+
+- [📚 Online Bookstore SQL Project](https://github.com/poojanaik1402/Online-Bookstore-SQL)  
+  *SQL queries for customer orders, book inventory, and purchase trends*
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/poojanaik1402)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/poojanaik1402)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poojanaik1402&show_icons=true&theme=radical" alt="Pooja's GitHub stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=poojanaik1402&label=Profile+Views&color=blue" alt="Visitor badge" />
+</p>
+
