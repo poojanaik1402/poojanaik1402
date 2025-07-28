@@ -30,7 +30,7 @@ I believe in using data not just to analyze the past, but to **guide decisions a
 - [📈 AdventureWorks Power BI Dashboard](https://github.com/poojanaik1402/AdventureWorks-Powerbi)  
   *Sales overview, product performance, and regional insights visualized using Power BI*
 
-- [📚 Online Bookstore SQL Project](https://github.com/poojanaik1402/Online-Bookstore-SQL)  
+- [📚 Online Bookstore SQL Project](https://github.com/poojanaik1402/Online_Bookstore--SQL) 
   *SQL queries for customer orders, book inventory, and purchase trends*
 
 ---
