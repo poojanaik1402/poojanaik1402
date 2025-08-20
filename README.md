@@ -5,7 +5,7 @@
 
 ---
 
-I'm a **healthcare professional transitioning into IT**, with 2.5+ years of experience in healthcare program operations. I’m now focused on **data analytics**, using tools like **SQL, Power BI, and Python** to uncover insights and tell meaningful stories through data.
+I'm a **healthcare professional transitioning into IT**, with 2.5 years of experience in healthcare program operations. I’m now focused on **data analytics**, using tools like **SQL, Power BI, and Python** to uncover insights and tell meaningful stories through data.
 
 I believe in using data not just to analyze the past, but to **guide decisions and shape better outcomes**—especially in healthcare and business.
 
