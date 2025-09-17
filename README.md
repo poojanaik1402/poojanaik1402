@@ -42,13 +42,6 @@ I believe in using data not just to analyze the past, but to **guide decisions a
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojanaik1402&show_icons=true&theme=radical" alt="Pooja's GitHub stats" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=poojanaik1402&label=Profile+Views&color=blue" alt="Visitor badge" />
