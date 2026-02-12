@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Pooja Naik</h1>
 <p align="center">
-  🌟  Data Analyst |Excel |SQL |Power BI |Python | Healthcare Professional
+  🌟  Data Analyst |Excel|SQL|Power BI|Python|Healthcare Professional
 </p>
 
 ---
