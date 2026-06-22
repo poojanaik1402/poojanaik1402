@@ -18,7 +18,7 @@ With a strong healthcare domain background, I enjoy solving business problems th
 ---
 
 ### 🛠 Skills & Tools
-**Data Analytics**
+--Data Analytics
   -SQL
   -Power BI
   -Microsoft Excel
@@ -27,14 +27,14 @@ With a strong healthcare domain background, I enjoy solving business problems th
   -Data Analysis
   -Data Validation
 
-**SQL**
+--SQL
   -Joins
   -CTEs
   -Window Functions
   -Aggregations
   -Subqueries
 
-**Power BI**
+--Power BI
   -DAX
   -Power Query
   -Data Modeling
