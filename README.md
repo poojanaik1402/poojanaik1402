@@ -5,7 +5,7 @@
 
 ---
 
-I'm a **healthcare professional transitioning into IT**, with 2+ years of experience in healthcare program operations. I’m now focused on **data analytics**, using tools like **Excel, SQL, Power BI, and Python** to uncover insights and tell meaningful stories through data.
+Results-driven Data Analyst with 2.5+ years of experience in data analysis, reporting, data validation, and business process improvement. Skilled in transforming raw data into meaningful insights through SQL, Power BI, Excel, and data visualization techniques.
 
 I believe in using data not just to analyze the past, but to **guide decisions and shape better outcomes**—especially in healthcare and business.
 
@@ -37,7 +37,6 @@ I believe in using data not just to analyze the past, but to **guide decisions a
 ---
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poojanaik1402&label=Profile+Views&color=blue" alt="Visitor badge" />
-</p>
+🎯 Career Goal
 
+To leverage data analytics, business intelligence, and visualization skills to help organizations make informed decisions through data-driven insights.
