@@ -17,48 +17,55 @@ With a strong healthcare domain background, I enjoy solving business problems th
 
 ---
 
-### 🛠 Skills & Tools
--Data Analytics
-  -SQL
-  -Power BI
-  -Microsoft Excel
-  -Python
-  -Data Cleaning
-  -Data Analysis
-  -Data Validation
+## 🛠 Skills & Tools
 
----
---SQL
-  -Joins
-  -CTEs
-  -Window Functions
-  -Aggregations
-  -Subqueries
+### 📊 Data Analytics
 
---Power BI
-  -DAX
-  -Power Query
-  -Data Modeling
-  -Interactive Dashboards
-  -KPI Reporting
+* SQL
+* Power BI
+* Microsoft Excel
+* Python
+* Data Cleaning
+* Data Analysis
+* Data Validation
 
-**Python**
-  -Pandas
-  -NumPy
-  -Data Manipulation
-  -Exploratory Data Analysis (EDA)
+### 🗄 SQL
 
-**Soft Skills**
-  -Problem Solving
-  -Critical Thinking
-  -Stakeholder Communication
-  -Reporting & Documentation
+* Joins
+* CTEs (Common Table Expressions)
+* Window Functions
+* Aggregations
+* Subqueries
 
-📂 Featured Projects
--Healthcare Claims Analysis Dashboard
--Sales Performance Dashboard
--SQL Business Case Studies
--Excel Analytics Dashboard
+### 📈 Power BI
+
+* DAX
+* Power Query
+* Data Modeling
+* Interactive Dashboards
+* KPI Reporting
+
+### 🐍 Python
+
+* Pandas
+* NumPy
+* Data Manipulation
+* Exploratory Data Analysis (EDA)
+
+### 🤝 Soft Skills
+
+* Problem Solving
+* Critical Thinking
+* Stakeholder Communication
+* Reporting & Documentation
+
+## 📂 Featured Projects
+
+* Healthcare Claims Analysis Dashboard
+* Sales Performance Dashboard
+* SQL Business Case Studies
+* Excel Analytics Dashboard
+
 
 
 ### 📫 Connect With Me
