@@ -5,10 +5,9 @@
 
 ---
 
-Results-driven Data Analyst with 2.5+ years of experience in data analysis, reporting, data validation, and business process improvement. Skilled in transforming raw data into actionable insights using SQL, Power BI, Excel, and Python.
+Results-driven Data Analyst with 2.5+ years of experience in data analysis, reporting, data validation, and business process improvement. Skilled in transforming raw data into actionable insights using SQL, Power BI, Excel, and Python. 
 
 With a strong healthcare domain background, I enjoy solving business problems through data-driven decision-making, visualization, and analytical thinking.
----
 
 ### 🔥 Current Focus
 - Building interactive dashboards in Power BI
@@ -19,43 +18,40 @@ With a strong healthcare domain background, I enjoy solving business problems th
 ---
 
 ### 🛠 Skills & Tools
-
-🛠 Skills & Tools
-Data Analytics
-
--SQL
--Power BI
--Microsoft Excel
--Python
--Data Cleaning
--Data Analysis
--Data Validation
+**Data Analytics**
+  -SQL
+  -Power BI
+  -Microsoft Excel
+  -Python
+  -Data Cleaning
+  -Data Analysis
+  -Data Validation
 
 **SQL**
--Joins
--CTEs
--Window Functions
--Aggregations
--Subqueries
+  -Joins
+  -CTEs
+  -Window Functions
+  -Aggregations
+  -Subqueries
 
 **Power BI**
--DAX
--Power Query
--Data Modeling
--Interactive Dashboards
--KPI Reporting
+  -DAX
+  -Power Query
+  -Data Modeling
+  -Interactive Dashboards
+  -KPI Reporting
 
 **Python**
--Pandas
--NumPy
--Data Manipulation
--Exploratory Data Analysis (EDA)
+  -Pandas
+  -NumPy
+  -Data Manipulation
+  -Exploratory Data Analysis (EDA)
 
 **Soft Skills**
--Problem Solving
--Critical Thinking
--Stakeholder Communication
--Reporting & Documentation
+  -Problem Solving
+  -Critical Thinking
+  -Stakeholder Communication
+  -Reporting & Documentation
 
 📂 Featured Projects
 -Healthcare Claims Analysis Dashboard
